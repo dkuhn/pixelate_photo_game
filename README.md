@@ -18,3 +18,8 @@ python pixelate_photo_game.py
 
 You can add name and url of photo of interest as key,value pairs in the dictionary.
 
+# Output
+Example of animated gif results shown below.
+
+![Animated gif of a flower](examples/violett_flower.gif?raw=true "Flower")
+![Animated gif of a flower](examples/green_leaf.gif?raw=true "Leaf")
